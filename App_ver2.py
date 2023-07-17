@@ -34,9 +34,11 @@ st.title("Practitioner Segment Classification Tool")
 # %%
 
 
-image=Image.open(r'C:\Users\AnkAnalytics-Ananyo\Desktop\Ank_projects\eye-doc.jpg')
-st.image(image)
-
+#image=Image.open(r'https://imgur.com/B14pnXl')
+#st.image(image)
+st.image(
+            "https://drive.google.com/file/d/1WAh2sLYx6fR2_76UoyJy8v9G44SllbEP/view", # Manually Adjust the width of the image as per requirement
+        )
 
 # setting the app layout
 
