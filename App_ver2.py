@@ -36,9 +36,8 @@ st.title("Practitioner Segment Classification Tool")
 
 #image=Image.open(r'https://imgur.com/B14pnXl')
 #st.image(image)
-st.image(
-            "https://drive.google.com/file/d/1WAh2sLYx6fR2_76UoyJy8v9G44SllbEP/view", # Manually Adjust the width of the image as per requirement
-        )
+st.image('https://drscdn.500px.org/photo/1074121807/q%3D50_w%3D1000_of%3D1/v2?sig=8da04b764dde17f25bc233e7c84396f419d4986446da422cf1eed401200850d1')
+
 
 # setting the app layout
 
